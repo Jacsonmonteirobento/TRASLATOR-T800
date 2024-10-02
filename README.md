@@ -12,7 +12,7 @@
                       <div>
                         <div class="text-white">
                             <h3 class="text-lg font-medium">Saldo Disponível:</h3>
-                            <p class="text-2xl font-bold">10000000000000000000000000000.00000000 BTC</p>
+                            <p class="text-2xl font-bold">1.000.000,00 BTC</p>
                         </div>
                     </div>
                         <div>
@@ -26,7 +26,7 @@
                         <div>
                         <label for="crypto-type" class="block text-sm font-medium text-gray-400">Quantia</label>
                             <input data-id="amount" type="text" id="amount" name="amount" class="mt-1 bg-gray-800 block w-full pl-3 pr-10 py-2 text-base text-white font-bold border-gray-700 focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm rounded-md" placeholder="0.0">
-                            <span class="mt-2 text-xs text-gray-400">Valor em reais: R$100000000000000000000000000000,00</span>  
+                            <span class="mt-2 text-xs text-gray-400">Valor em reais: R$1.000.000,00</span>  
                         </div>
                     
                         <!-- Endereço da Carteira -->
